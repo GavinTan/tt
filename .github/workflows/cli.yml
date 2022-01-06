@@ -15,8 +15,3 @@ jobs:
         npm install
         npm run build
 
-    - name: Deploy
-      uses: gavintan/tt@master
-      with:
-        branch: master
-        folder: build
