@@ -15,3 +15,7 @@ jobs:
         npm install
         npm run build
 
+    - name: Deploy
+      uses: gavintan/tt@master
+      with:
+        token: ${{ secrets.token }}
