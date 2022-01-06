@@ -10,10 +10,11 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
 
-    - name: Build and Deploy
+
+    - name: Deploy
       uses: gavintan/tt@master
       env:
         ACCESS_TOKEN: ${{ secrets.token }}
-        BRANCH: gh-pages
+        BRANCH: master
         FOLDER: build
         BUILD_SCRIPT: npm install && npm run build
