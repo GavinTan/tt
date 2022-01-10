@@ -1,0 +1,1390 @@
+2022-01-10 10:16:19 [PicGo INFO] [PicGo Server] is listening at 36677 
+2022-01-10 10:26:05 [PicGo INFO] Before transform 
+2022-01-10 10:26:05 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 10:26:05 [PicGo INFO] Before upload 
+2022-01-10 10:26:05 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 10:26:05 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 10:26:05 [PicGo WARN] failed 
+2022-01-10 10:26:05 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\uploader\github.js:21:15)
+    at Lifecycle.doUpload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:80:77)
+    at Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:26:24)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+-------Error Stack End------- 
+2022-01-10 10:26:05 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\uploader\github.js:21:15)
+    at Lifecycle.doUpload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:80:77)
+    at Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:26:24)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+-------Error Stack End------- 
+2022-01-10 10:26:15 [PicGo ERROR] 
+------Error Stack Begin------
+Error: image not found in clipboard
+    at PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:180:27)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Bt (D:\Soft\PicGo\resources\app.asar\background.js:36:30882)
+-------Error Stack End------- 
+2022-01-10 10:29:36 [PicGo INFO] detect second instance 
+2022-01-10 10:35:25 [PicGo INFO] Before transform 
+2022-01-10 10:35:25 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 10:35:25 [PicGo WARN] can't get C:\Users\Public\Desktop\PicGo.lnk's image size 
+2022-01-10 10:35:25 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 10:35:25 [PicGo INFO] Before upload 
+2022-01-10 10:35:25 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 10:35:25 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 10:35:25 [PicGo WARN] failed 
+2022-01-10 10:35:25 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\uploader\github.js:21:15)
+    at Lifecycle.doUpload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:80:77)
+    at Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:26:24)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+-------Error Stack End------- 
+2022-01-10 10:35:25 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\uploader\github.js:21:15)
+    at Lifecycle.doUpload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:80:77)
+    at Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:26:24)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+-------Error Stack End------- 
+2022-01-10 10:38:23 [PicGo INFO] Before transform 
+2022-01-10 10:38:23 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 10:38:23 [PicGo INFO] Before upload 
+2022-01-10 10:38:23 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 10:38:23 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 10:38:23 [PicGo WARN] failed 
+2022-01-10 10:38:23 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\uploader\github.js:21:15)
+    at Lifecycle.doUpload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:80:77)
+    at Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:26:24)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+-------Error Stack End------- 
+2022-01-10 10:38:23 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\uploader\github.js:21:15)
+    at Lifecycle.doUpload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:80:77)
+    at Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:26:24)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+-------Error Stack End------- 
+2022-01-10 10:38:27 [PicGo INFO] Before transform 
+2022-01-10 10:38:27 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 10:38:27 [PicGo INFO] Before upload 
+2022-01-10 10:38:27 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 10:38:27 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 10:38:27 [PicGo WARN] failed 
+2022-01-10 10:38:27 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\uploader\github.js:21:15)
+    at Lifecycle.doUpload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:80:77)
+    at Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:26:24)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+-------Error Stack End------- 
+2022-01-10 10:38:27 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\uploader\github.js:21:15)
+    at Lifecycle.doUpload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:80:77)
+    at Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:26:24)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+-------Error Stack End------- 
+2022-01-10 11:23:11 [PicGo INFO] detect second instance 
+2022-01-10 11:23:27 [PicGo INFO] Before transform 
+2022-01-10 11:23:27 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:23:27 [PicGo WARN] can't get C:\Users\Public\Desktop\PicGo.lnk's image size 
+2022-01-10 11:23:27 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 11:23:27 [PicGo INFO] Before upload 
+2022-01-10 11:23:27 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:23:27 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:23:27 [PicGo WARN] failed 
+2022-01-10 11:23:27 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\uploader\github.js:21:15)
+    at Lifecycle.doUpload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:80:77)
+    at Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:26:24)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+-------Error Stack End------- 
+2022-01-10 11:23:27 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\uploader\github.js:21:15)
+    at Lifecycle.doUpload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:80:77)
+    at Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:26:24)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+-------Error Stack End------- 
+2022-01-10 11:26:06 [PicGo INFO] detect second instance 
+2022-01-10 11:26:23 [PicGo INFO] [PicGo Server] shutdown 
+2022-01-10 11:26:41 [PicGo INFO] [PicGo Server] is listening at 36677 
+2022-01-10 11:26:49 [PicGo INFO] Before transform 
+2022-01-10 11:26:49 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:26:49 [PicGo WARN] can't get C:\Users\Public\Desktop\PicGo.lnk's image size 
+2022-01-10 11:26:49 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 11:26:49 [PicGo INFO] Before upload 
+2022-01-10 11:26:49 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:26:49 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:26:49 [PicGo WARN] failed 
+2022-01-10 11:26:49 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:26:49 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:28:07 [PicGo INFO] Before transform 
+2022-01-10 11:28:07 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:28:07 [PicGo INFO] Before upload 
+2022-01-10 11:28:07 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:28:07 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:28:07 [PicGo WARN] failed 
+2022-01-10 11:28:07 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:28:07 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:28:28 [PicGo INFO] Before transform 
+2022-01-10 11:28:28 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:28:28 [PicGo INFO] Before upload 
+2022-01-10 11:28:28 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:28:28 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:28:28 [PicGo WARN] failed 
+2022-01-10 11:28:28 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:28:28 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:28:32 [PicGo INFO] Before transform 
+2022-01-10 11:28:32 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:28:32 [PicGo INFO] Before upload 
+2022-01-10 11:28:32 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:28:32 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:28:32 [PicGo WARN] failed 
+2022-01-10 11:28:32 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:28:32 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:28:51 [PicGo INFO] Before transform 
+2022-01-10 11:28:51 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:28:51 [PicGo INFO] Before upload 
+2022-01-10 11:28:51 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:28:51 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:28:51 [PicGo WARN] failed 
+2022-01-10 11:28:51 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:28:51 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:29:18 [PicGo INFO] Before transform 
+2022-01-10 11:29:18 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:29:18 [PicGo INFO] Before upload 
+2022-01-10 11:29:18 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:29:18 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:29:18 [PicGo WARN] failed 
+2022-01-10 11:29:18 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:29:18 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:32:59 [PicGo INFO] Before transform 
+2022-01-10 11:32:59 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:32:59 [PicGo INFO] Before upload 
+2022-01-10 11:32:59 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:32:59 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:32:59 [PicGo WARN] failed 
+2022-01-10 11:32:59 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:32:59 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:33:11 [PicGo INFO] Before transform 
+2022-01-10 11:33:11 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:33:11 [PicGo INFO] Before upload 
+2022-01-10 11:33:11 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:33:11 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:33:11 [PicGo WARN] failed 
+2022-01-10 11:33:11 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:33:11 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:34:14 [PicGo INFO] Before transform 
+2022-01-10 11:34:14 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:34:14 [PicGo INFO] Before upload 
+2022-01-10 11:34:14 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:34:14 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:34:14 [PicGo WARN] failed 
+2022-01-10 11:34:14 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:34:14 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:34:19 [PicGo INFO] Before transform 
+2022-01-10 11:34:19 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:34:19 [PicGo INFO] Before upload 
+2022-01-10 11:34:19 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:34:19 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:34:19 [PicGo WARN] failed 
+2022-01-10 11:34:19 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:34:19 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:35:09 [PicGo INFO] Before transform 
+2022-01-10 11:35:09 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:35:09 [PicGo INFO] Before upload 
+2022-01-10 11:35:09 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:35:09 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:35:09 [PicGo WARN] failed 
+2022-01-10 11:35:09 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:35:09 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:35:12 [PicGo INFO] Before transform 
+2022-01-10 11:35:12 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:35:12 [PicGo INFO] Before upload 
+2022-01-10 11:35:12 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:35:12 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:35:12 [PicGo WARN] failed 
+2022-01-10 11:35:12 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:35:12 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:35:46 [PicGo INFO] Before transform 
+2022-01-10 11:35:46 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:35:46 [PicGo INFO] Before upload 
+2022-01-10 11:35:46 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:35:46 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:35:46 [PicGo WARN] failed 
+2022-01-10 11:35:46 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:35:46 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:37:55 [PicGo INFO] [PicGo Server] shutdown 
+2022-01-10 11:38:13 [PicGo INFO] [PicGo Server] is listening at 36677 
+2022-01-10 11:38:47 [PicGo INFO] Before transform 
+2022-01-10 11:38:47 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:38:47 [PicGo INFO] Before upload 
+2022-01-10 11:38:47 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:38:47 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:38:47 [PicGo WARN] failed 
+2022-01-10 11:38:48 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:38:48 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:39:10 [PicGo INFO] Before transform 
+2022-01-10 11:39:10 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:39:10 [PicGo INFO] Before upload 
+2022-01-10 11:39:10 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:39:10 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:39:10 [PicGo WARN] failed 
+2022-01-10 11:39:10 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:39:10 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:42:06 [PicGo INFO] Before transform 
+2022-01-10 11:42:06 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:42:06 [PicGo INFO] Before upload 
+2022-01-10 11:42:06 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:42:06 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:42:06 [PicGo WARN] failed 
+2022-01-10 11:42:06 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:42:06 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:44:47 [PicGo INFO] Before transform 
+2022-01-10 11:44:47 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:44:47 [PicGo INFO] Before upload 
+2022-01-10 11:44:47 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:44:47 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:44:47 [PicGo WARN] failed 
+2022-01-10 11:44:47 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:44:47 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:50:53 [PicGo INFO] Before transform 
+2022-01-10 11:50:53 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 11:50:53 [PicGo WARN] can't get C:\Users\Public\Desktop\PicGo.lnk's image size 
+2022-01-10 11:50:53 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 11:50:53 [PicGo INFO] Before upload 
+2022-01-10 11:50:53 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 11:50:53 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 11:50:53 [PicGo WARN] failed 
+2022-01-10 11:50:53 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 11:50:53 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:01:01 [PicGo INFO] [PicGo Server] shutdown 
+2022-01-10 12:01:24 [PicGo INFO] [PicGo Server] is listening at 36677 
+2022-01-10 12:02:03 [PicGo INFO] Before transform 
+2022-01-10 12:02:03 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 12:02:03 [PicGo INFO] Before upload 
+2022-01-10 12:02:03 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 12:02:03 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 12:02:03 [PicGo WARN] failed 
+2022-01-10 12:02:03 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:02:03 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:08:14 [PicGo INFO] [PicGo Server] shutdown 
+2022-01-10 12:08:29 [PicGo INFO] [PicGo Server] is listening at 36677 
+2022-01-10 12:08:38 [PicGo INFO] Before transform 
+2022-01-10 12:08:38 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 12:08:38 [PicGo INFO] Before upload 
+2022-01-10 12:08:38 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 12:08:38 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 12:08:38 [PicGo WARN] failed 
+2022-01-10 12:08:38 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:08:38 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:08:46 [PicGo INFO] Before transform 
+2022-01-10 12:08:46 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 12:08:46 [PicGo INFO] Before upload 
+2022-01-10 12:08:46 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 12:08:46 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 12:08:46 [PicGo WARN] failed 
+2022-01-10 12:08:46 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:08:46 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:09:45 [PicGo INFO] Before transform 
+2022-01-10 12:09:45 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 12:09:45 [PicGo WARN] can't get C:\Users\Public\Desktop\PicGo.lnk's image size 
+2022-01-10 12:09:45 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 12:09:45 [PicGo INFO] Before upload 
+2022-01-10 12:09:45 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 12:09:45 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 12:09:45 [PicGo WARN] failed 
+2022-01-10 12:09:45 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:09:45 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:11:22 [PicGo INFO] Before transform 
+2022-01-10 12:11:22 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 12:11:22 [PicGo INFO] Before upload 
+2022-01-10 12:11:22 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 12:11:22 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 12:11:22 [PicGo WARN] failed 
+2022-01-10 12:11:22 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:11:22 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:11:43 [PicGo INFO] Before transform 
+2022-01-10 12:11:43 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 12:11:43 [PicGo WARN] can't get C:\Users\Public\Desktop\PicGo.lnk's image size 
+2022-01-10 12:11:43 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 12:11:43 [PicGo INFO] Before upload 
+2022-01-10 12:11:43 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 12:11:43 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 12:11:43 [PicGo WARN] failed 
+2022-01-10 12:11:43 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:11:43 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:12:21 [PicGo INFO] Before transform 
+2022-01-10 12:12:21 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 12:12:21 [PicGo WARN] can't get C:\Users\Public\Desktop\PicGo.lnk's image size 
+2022-01-10 12:12:21 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 12:12:21 [PicGo INFO] Before upload 
+2022-01-10 12:12:21 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 12:12:21 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 12:12:21 [PicGo WARN] failed 
+2022-01-10 12:12:21 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:12:21 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:12:26 [PicGo INFO] Before transform 
+2022-01-10 12:12:26 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 12:12:28 [PicGo INFO] Before upload 
+2022-01-10 12:12:28 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 12:12:28 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 12:12:28 [PicGo WARN] failed 
+2022-01-10 12:12:28 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:12:28 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:12:30 [PicGo INFO] Before transform 
+2022-01-10 12:12:30 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 12:12:32 [PicGo WARN] can't get D:\Downloads\clash-win (1).exe's image size 
+2022-01-10 12:12:32 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 12:12:32 [PicGo INFO] Before upload 
+2022-01-10 12:12:32 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 12:12:32 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 12:12:32 [PicGo WARN] failed 
+2022-01-10 12:12:32 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:12:32 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:12:42 [PicGo INFO] Before transform 
+2022-01-10 12:12:42 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 12:12:42 [PicGo WARN] can't get D:\Downloads\release.zip's image size 
+2022-01-10 12:12:42 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 12:12:42 [PicGo INFO] Before upload 
+2022-01-10 12:12:42 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 12:12:42 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 12:12:43 [PicGo WARN] failed 
+2022-01-10 12:12:43 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 12:12:43 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 14:11:02 [PicGo INFO] Before transform 
+2022-01-10 14:11:02 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:11:02 [PicGo INFO] Before upload 
+2022-01-10 14:11:02 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:11:02 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:11:02 [PicGo WARN] failed 
+2022-01-10 14:11:02 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 14:11:02 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 14:11:04 [PicGo INFO] Before transform 
+2022-01-10 14:11:04 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:11:04 [PicGo INFO] Before upload 
+2022-01-10 14:11:04 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:11:04 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:11:04 [PicGo WARN] failed 
+2022-01-10 14:11:04 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 14:11:04 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 14:11:18 [PicGo INFO] Before transform 
+2022-01-10 14:11:18 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:11:18 [PicGo WARN] can't get D:\Downloads\release.zip's image size 
+2022-01-10 14:11:18 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 14:11:18 [PicGo INFO] Before upload 
+2022-01-10 14:11:18 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:11:18 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:11:18 [PicGo WARN] failed 
+2022-01-10 14:11:18 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 14:11:18 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:20460)
+    at Ee.doUpload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:14554)
+    at Ee.start (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:13313)
+    at async dt.upload (C:\Users\gavin\Desktop\PicGo\node_modules\picgo\dist\index.cjs.js:1:44866)
+    at async Uploader.upload (webpack:///./src/main/apis/app/uploader/index.ts?:116:28)
+    at async uploadChoosedFiles (webpack:///./src/main/apis/app/uploader/apis.ts?:61:18)
+-------Error Stack End------- 
+2022-01-10 14:11:51 [PicGo INFO] detect second instance 
+2022-01-10 14:11:55 [PicGo INFO] [PicGo Server] shutdown 
+2022-01-10 14:11:57 [PicGo INFO] [PicGo Server] is listening at 36677 
+2022-01-10 14:12:01 [PicGo INFO] Before transform 
+2022-01-10 14:12:01 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:12:01 [PicGo WARN] can't get D:\Downloads\release.zip's image size 
+2022-01-10 14:12:01 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 14:12:01 [PicGo INFO] Before upload 
+2022-01-10 14:12:01 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:12:01 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:12:01 [PicGo WARN] failed 
+2022-01-10 14:12:01 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\uploader\github.js:21:15)
+    at Lifecycle.doUpload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:80:77)
+    at Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:26:24)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+-------Error Stack End------- 
+2022-01-10 14:12:01 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find github config
+    at Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\uploader\github.js:21:15)
+    at Lifecycle.doUpload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:80:77)
+    at Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:26:24)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+-------Error Stack End------- 
+2022-01-10 14:13:59 [PicGo INFO] Before transform 
+2022-01-10 14:13:59 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:13:59 [PicGo WARN] can't get D:\Downloads\release.zip's image size 
+2022-01-10 14:13:59 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 14:13:59 [PicGo INFO] Before upload 
+2022-01-10 14:13:59 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:13:59 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:14:00 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/GavinTan/tt/gh-pages/filesrelease.zip 
+2022-01-10 14:14:44 [PicGo INFO] Before transform 
+2022-01-10 14:14:44 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:14:44 [PicGo WARN] can't get D:\Downloads\release.zip's image size 
+2022-01-10 14:14:44 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 14:14:44 [PicGo INFO] Before upload 
+2022-01-10 14:14:44 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:14:44 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:14:45 [PicGo WARN] failed 
+2022-01-10 14:14:45 [PicGo ERROR] 
+------Error Stack Begin------
+StatusCodeError: 422 - {"message":"Invalid request.\n\n\"sha\" wasn't supplied.","documentation_url":"https://docs.github.com/rest/reference/repos#create-or-update-file-contents"}
+    at new StatusCodeError (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\errors.js:32:15)
+    at Request.plumbing.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:46:31)
+    at Request.self.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:200:13)
+    at Request.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:200:13)
+    at IncomingMessage.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (events.js:288:20)
+    at IncomingMessage.emit (events.js:205:15)
+-------Error Stack End------- 
+2022-01-10 14:14:45 [PicGo ERROR] 
+------Error Stack Begin------
+StatusCodeError: 422 - {"message":"Invalid request.\n\n\"sha\" wasn't supplied.","documentation_url":"https://docs.github.com/rest/reference/repos#create-or-update-file-contents"}
+    at new StatusCodeError (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\errors.js:32:15)
+    at Request.plumbing.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:46:31)
+    at Request.self.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:200:13)
+    at Request.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:200:13)
+    at IncomingMessage.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (events.js:288:20)
+    at IncomingMessage.emit (events.js:205:15)
+-------Error Stack End------- 
+2022-01-10 14:15:40 [PicGo INFO] Before transform 
+2022-01-10 14:15:40 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:15:40 [PicGo WARN] can't get D:\Downloads\Dler Cloud - Love.yaml's image size 
+2022-01-10 14:15:40 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 14:15:40 [PicGo INFO] Before upload 
+2022-01-10 14:15:40 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:15:40 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:15:41 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/GavinTan/tt/gh-pages/filesDler%20Cloud%20-%20Love.yaml 
+2022-01-10 14:16:08 [PicGo INFO] Before transform 
+2022-01-10 14:16:08 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:16:08 [PicGo WARN] can't get D:\Downloads\guacamole.js's image size 
+2022-01-10 14:16:08 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 14:16:08 [PicGo INFO] Before upload 
+2022-01-10 14:16:08 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:16:08 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:16:10 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/GavinTan/tt/gh-pages/filesguacamole.js 
+2022-01-10 14:16:13 [PicGo INFO] Before transform 
+2022-01-10 14:16:13 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:16:13 [PicGo WARN] can't get D:\Downloads\guacamole.js's image size 
+2022-01-10 14:16:13 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 14:16:13 [PicGo INFO] Before upload 
+2022-01-10 14:16:13 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:16:13 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:16:15 [PicGo WARN] failed 
+2022-01-10 14:16:15 [PicGo ERROR] 
+------Error Stack Begin------
+StatusCodeError: 422 - {"message":"Invalid request.\n\n\"sha\" wasn't supplied.","documentation_url":"https://docs.github.com/rest/reference/repos#create-or-update-file-contents"}
+    at new StatusCodeError (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\errors.js:32:15)
+    at Request.plumbing.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:46:31)
+    at Request.self.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:200:13)
+    at Request.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:200:13)
+    at IncomingMessage.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (events.js:288:20)
+    at IncomingMessage.emit (events.js:205:15)
+-------Error Stack End------- 
+2022-01-10 14:16:15 [PicGo ERROR] 
+------Error Stack Begin------
+StatusCodeError: 422 - {"message":"Invalid request.\n\n\"sha\" wasn't supplied.","documentation_url":"https://docs.github.com/rest/reference/repos#create-or-update-file-contents"}
+    at new StatusCodeError (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\errors.js:32:15)
+    at Request.plumbing.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:46:31)
+    at Request.self.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:200:13)
+    at Request.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:200:13)
+    at IncomingMessage.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (events.js:288:20)
+    at IncomingMessage.emit (events.js:205:15)
+-------Error Stack End------- 
+2022-01-10 14:16:19 [PicGo INFO] Before transform 
+2022-01-10 14:16:19 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:16:19 [PicGo WARN] can't get D:\Downloads\guacamole.js's image size 
+2022-01-10 14:16:19 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 14:16:19 [PicGo INFO] Before upload 
+2022-01-10 14:16:19 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:16:19 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:16:20 [PicGo WARN] failed 
+2022-01-10 14:16:20 [PicGo ERROR] 
+------Error Stack Begin------
+StatusCodeError: 422 - {"message":"Invalid request.\n\n\"sha\" wasn't supplied.","documentation_url":"https://docs.github.com/rest/reference/repos#create-or-update-file-contents"}
+    at new StatusCodeError (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\errors.js:32:15)
+    at Request.plumbing.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:46:31)
+    at Request.self.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:200:13)
+    at Request.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:200:13)
+    at IncomingMessage.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (events.js:288:20)
+    at IncomingMessage.emit (events.js:205:15)
+-------Error Stack End------- 
+2022-01-10 14:16:20 [PicGo ERROR] 
+------Error Stack Begin------
+StatusCodeError: 422 - {"message":"Invalid request.\n\n\"sha\" wasn't supplied.","documentation_url":"https://docs.github.com/rest/reference/repos#create-or-update-file-contents"}
+    at new StatusCodeError (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\errors.js:32:15)
+    at Request.plumbing.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:46:31)
+    at Request.self.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:200:13)
+    at Request.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:200:13)
+    at IncomingMessage.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (events.js:288:20)
+    at IncomingMessage.emit (events.js:205:15)
+-------Error Stack End------- 
+2022-01-10 14:16:46 [PicGo INFO] Before transform 
+2022-01-10 14:16:46 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:16:46 [PicGo WARN] can't get D:\Downloads\guacamole.js's image size 
+2022-01-10 14:16:46 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 14:16:46 [PicGo INFO] Before upload 
+2022-01-10 14:16:46 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:16:46 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:16:48 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/GavinTan/tt/gh-pages/files/guacamole.js 
+2022-01-10 14:17:16 [PicGo INFO] Before transform 
+2022-01-10 14:17:16 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:17:16 [PicGo WARN] can't get D:\Downloads\guacamole.js's image size 
+2022-01-10 14:17:16 [PicGo WARN] fallback to 200 * 200 
+2022-01-10 14:17:16 [PicGo INFO] Before upload 
+2022-01-10 14:17:16 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:17:16 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:17:18 [PicGo WARN] failed 
+2022-01-10 14:17:18 [PicGo ERROR] 
+------Error Stack Begin------
+StatusCodeError: 422 - {"message":"Invalid request.\n\n\"sha\" wasn't supplied.","documentation_url":"https://docs.github.com/rest/reference/repos#create-or-update-file-contents"}
+    at new StatusCodeError (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\errors.js:32:15)
+    at Request.plumbing.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:46:31)
+    at Request.self.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:200:13)
+    at Request.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:200:13)
+    at IncomingMessage.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (events.js:288:20)
+    at IncomingMessage.emit (events.js:205:15)
+-------Error Stack End------- 
+2022-01-10 14:17:18 [PicGo ERROR] 
+------Error Stack Begin------
+StatusCodeError: 422 - {"message":"Invalid request.\n\n\"sha\" wasn't supplied.","documentation_url":"https://docs.github.com/rest/reference/repos#create-or-update-file-contents"}
+    at new StatusCodeError (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\errors.js:32:15)
+    at Request.plumbing.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:46:31)
+    at Request.self.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:200:13)
+    at Request.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:200:13)
+    at IncomingMessage.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (events.js:288:20)
+    at IncomingMessage.emit (events.js:205:15)
+-------Error Stack End------- 
+2022-01-10 14:19:23 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\gavin\\Pictures\\Saved Pictures\\da7Ry2.jpg"]} 
+2022-01-10 14:19:23 [PicGo INFO] [PicGo Server] upload files in list 
+2022-01-10 14:19:23 [PicGo INFO] Before transform 
+2022-01-10 14:19:23 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:19:23 [PicGo INFO] Before upload 
+2022-01-10 14:19:23 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:19:23 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:19:25 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/GavinTan/tt/gh-pages/files/da7Ry2.jpg 
+2022-01-10 14:20:31 [PicGo INFO] [PicGo Server] get the request {"list":["https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png"]} 
+2022-01-10 14:20:31 [PicGo INFO] [PicGo Server] upload files in list 
+2022-01-10 14:20:31 [PicGo INFO] Before transform 
+2022-01-10 14:20:31 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:20:41 [PicGo WARN] failed 
+2022-01-10 14:20:41 [PicGo ERROR] 
+------Error Stack Begin------
+Error: request https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png timeout
+    at D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:25:19
+    at async Promise.all (index 0)
+    at async Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:6:5)
+    at async Lifecycle.doTransform (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:59:9)
+    at async Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:24:13)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+    at async D:\Soft\PicGo\resources\app.asar\background.js:36:32625
+-------Error Stack End------- 
+2022-01-10 14:20:41 [PicGo ERROR] 
+------Error Stack Begin------
+Error: request https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png timeout
+    at D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:25:19
+    at async Promise.all (index 0)
+    at async Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:6:5)
+    at async Lifecycle.doTransform (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:59:9)
+    at async Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:24:13)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+    at async D:\Soft\PicGo\resources\app.asar\background.js:36:32625
+-------Error Stack End------- 
+2022-01-10 14:20:41 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2022-01-10 14:20:49 [PicGo INFO] [PicGo Server] get the request {"list":["https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png"]} 
+2022-01-10 14:20:49 [PicGo INFO] [PicGo Server] upload files in list 
+2022-01-10 14:20:49 [PicGo INFO] Before transform 
+2022-01-10 14:20:49 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:20:59 [PicGo WARN] failed 
+2022-01-10 14:20:59 [PicGo ERROR] 
+------Error Stack Begin------
+Error: request https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png timeout
+    at D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:25:19
+    at async Promise.all (index 0)
+    at async Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:6:5)
+    at async Lifecycle.doTransform (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:59:9)
+    at async Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:24:13)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+    at async D:\Soft\PicGo\resources\app.asar\background.js:36:32625
+-------Error Stack End------- 
+2022-01-10 14:20:59 [PicGo ERROR] 
+------Error Stack Begin------
+Error: request https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png timeout
+    at D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:25:19
+    at async Promise.all (index 0)
+    at async Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:6:5)
+    at async Lifecycle.doTransform (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:59:9)
+    at async Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:24:13)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+    at async D:\Soft\PicGo\resources\app.asar\background.js:36:32625
+-------Error Stack End------- 
+2022-01-10 14:20:59 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2022-01-10 14:21:19 [PicGo INFO] [PicGo Server] get the request {"list":["https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png"]} 
+2022-01-10 14:21:19 [PicGo INFO] [PicGo Server] upload files in list 
+2022-01-10 14:21:19 [PicGo INFO] Before transform 
+2022-01-10 14:21:19 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:21:29 [PicGo WARN] failed 
+2022-01-10 14:21:29 [PicGo ERROR] 
+------Error Stack Begin------
+Error: request https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png timeout
+    at D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:25:19
+    at async Promise.all (index 0)
+    at async Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:6:5)
+    at async Lifecycle.doTransform (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:59:9)
+    at async Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:24:13)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+    at async D:\Soft\PicGo\resources\app.asar\background.js:36:32625
+-------Error Stack End------- 
+2022-01-10 14:21:29 [PicGo ERROR] 
+------Error Stack Begin------
+Error: request https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png timeout
+    at D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:25:19
+    at async Promise.all (index 0)
+    at async Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:6:5)
+    at async Lifecycle.doTransform (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:59:9)
+    at async Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:24:13)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+    at async D:\Soft\PicGo\resources\app.asar\background.js:36:32625
+-------Error Stack End------- 
+2022-01-10 14:21:29 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2022-01-10 14:22:36 [PicGo INFO] [PicGo Server] get the request {"list":["https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png"]} 
+2022-01-10 14:22:36 [PicGo INFO] [PicGo Server] upload files in list 
+2022-01-10 14:22:36 [PicGo INFO] Before transform 
+2022-01-10 14:22:36 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:22:46 [PicGo WARN] failed 
+2022-01-10 14:22:46 [PicGo ERROR] 
+------Error Stack Begin------
+Error: request https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png timeout
+    at D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:25:19
+    at async Promise.all (index 0)
+    at async Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:6:5)
+    at async Lifecycle.doTransform (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:59:9)
+    at async Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:24:13)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+    at async D:\Soft\PicGo\resources\app.asar\background.js:36:32625
+-------Error Stack End------- 
+2022-01-10 14:22:46 [PicGo ERROR] 
+------Error Stack Begin------
+Error: request https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png timeout
+    at D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:25:19
+    at async Promise.all (index 0)
+    at async Object.handle (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\plugins\transformer\path.js:6:5)
+    at async Lifecycle.doTransform (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:59:9)
+    at async Lifecycle.start (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\Lifecycle.js:24:13)
+    at async PicGo.upload (D:\Soft\PicGo\resources\app.asar\node_modules\picgo\dist\src\core\PicGo.js:205:32)
+    at async Object.upload (D:\Soft\PicGo\resources\app.asar\background.js:36:29196)
+    at async Pt (D:\Soft\PicGo\resources\app.asar\background.js:36:31625)
+    at async D:\Soft\PicGo\resources\app.asar\background.js:36:32625
+-------Error Stack End------- 
+2022-01-10 14:22:46 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2022-01-10 14:23:24 [PicGo INFO] [PicGo Server] get the request {"list":["https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.jj20.com%2Fup%2Fallimg%2Ftp05%2F1910020Z64a922-0-lp.jpg&refer=http%3A%2F%2Fimg.jj20.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644387790&t=dcc4961b4737e3293119bb76126dbcc3"]} 
+2022-01-10 14:23:24 [PicGo INFO] [PicGo Server] upload files in list 
+2022-01-10 14:23:24 [PicGo INFO] Before transform 
+2022-01-10 14:23:24 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:23:25 [PicGo INFO] Before upload 
+2022-01-10 14:23:25 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:23:25 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:23:26 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/GavinTan/tt/gh-pages/files/src%3Dhttp%25253A%25252F%25252Fimg.jj20.com%25252Fup%25252Fallimg%25252Ftp05%25252F1910020Z64a922-0-lp.jpg%26refer%3Dhttp%25253A%25252F%25252Fimg.jj20.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg 
+2022-01-10 14:24:22 [PicGo INFO] [PicGo Server] get the request {"list":["https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.jj20.com%2Fup%2Fallimg%2Ftp06%2F20111116192A364-0-lp.jpg&refer=http%3A%2F%2Fimg.jj20.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644387790&t=4660a57cd77fa41dc32a5e40272e1301"]} 
+2022-01-10 14:24:22 [PicGo INFO] [PicGo Server] upload files in list 
+2022-01-10 14:24:22 [PicGo INFO] Before transform 
+2022-01-10 14:24:22 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:24:22 [PicGo INFO] Before upload 
+2022-01-10 14:24:22 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:24:22 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:24:23 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/GavinTan/tt/gh-pages/files/src%3Dhttp%25253A%25252F%25252Fimg.jj20.com%25252Fup%25252Fallimg%25252Ftp06%25252F20111116192A364-0-lp.jpg%26refer%3Dhttp%25253A%25252F%25252Fimg.jj20.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg 
+2022-01-10 14:25:03 [PicGo INFO] [PicGo Server] get the request {"list":["https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.jj20.com%2Fup%2Fallimg%2Ftp06%2F20111116192A364-0-lp.jpg&refer=http%3A%2F%2Fimg.jj20.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644387790&t=4660a57cd77fa41dc32a5e40272e1301"]} 
+2022-01-10 14:25:03 [PicGo INFO] [PicGo Server] upload files in list 
+2022-01-10 14:25:03 [PicGo INFO] Before transform 
+2022-01-10 14:25:03 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:25:03 [PicGo INFO] Before upload 
+2022-01-10 14:25:03 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:25:03 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:25:04 [PicGo WARN] failed 
+2022-01-10 14:25:04 [PicGo ERROR] 
+------Error Stack Begin------
+StatusCodeError: 422 - {"message":"Invalid request.\n\n\"sha\" wasn't supplied.","documentation_url":"https://docs.github.com/rest/reference/repos#create-or-update-file-contents"}
+    at new StatusCodeError (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\errors.js:32:15)
+    at Request.plumbing.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:46:31)
+    at Request.self.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:200:13)
+    at Request.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:200:13)
+    at IncomingMessage.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (events.js:288:20)
+    at IncomingMessage.emit (events.js:205:15)
+-------Error Stack End------- 
+2022-01-10 14:25:04 [PicGo ERROR] 
+------Error Stack Begin------
+StatusCodeError: 422 - {"message":"Invalid request.\n\n\"sha\" wasn't supplied.","documentation_url":"https://docs.github.com/rest/reference/repos#create-or-update-file-contents"}
+    at new StatusCodeError (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\errors.js:32:15)
+    at Request.plumbing.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:104:33)
+    at Request.RP$callback [as _callback] (D:\Soft\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:46:31)
+    at Request.self.callback (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:200:13)
+    at Request.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:200:13)
+    at IncomingMessage.<anonymous> (D:\Soft\PicGo\resources\app.asar\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (events.js:288:20)
+    at IncomingMessage.emit (events.js:205:15)
+-------Error Stack End------- 
+2022-01-10 14:25:04 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2022-01-10 14:25:21 [PicGo INFO] [PicGo Server] get the request {"list":["https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.jj20.com%2Fup%2Fallimg%2F1113%2F052420110515%2F200524110515-11-1200.jpg&refer=http%3A%2F%2Fimg.jj20.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644387790&t=7958dc500f3986b128683c1b1ad42c05"]} 
+2022-01-10 14:25:21 [PicGo INFO] [PicGo Server] upload files in list 
+2022-01-10 14:25:21 [PicGo INFO] Before transform 
+2022-01-10 14:25:21 [PicGo INFO] Transforming... Current transformer is [path] 
+2022-01-10 14:25:22 [PicGo INFO] Before upload 
+2022-01-10 14:25:22 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2022-01-10 14:25:22 [PicGo INFO] Uploading... Current uploader is [github] 
+2022-01-10 14:25:22 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/GavinTan/tt/gh-pages/files/src%3Dhttp%25253A%25252F%25252Fimg.jj20.com%25252Fup%25252Fallimg%25252F1113%25252F052420110515%25252F200524110515-11-1200.jpg%26refer%3Dhttp%25253A%25252F%25252Fimg.jj20.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg 
+2022-01-10 14:30:38 [PicGo INFO] Before transform 
+2022-01-10 14:30:38 [PicGo INFO] Transforming... Current transformer is [path] 
