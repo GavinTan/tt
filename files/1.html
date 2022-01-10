@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--<h1>GuacamoleÔ¶³Ì×ÀÃæ</h1>-->
+<!-- Guacamole -->
+<script type="text/javascript" src="all.js"></script>
+
+<!-- Display -->
+<div id="display"></div>
+
+<!-- Init -->
+<script type="text/javascript"> /* <![CDATA[ */
+
+function paste(data) {
+    var stream = guac.createClipboardStream("text/plain");
+    var writer = new Guacamole.StringWriter(stream);
+
+    // Send text chunks
+    for (var i = 0; i < data.length; i += 4096)
+    writer.sendText(data.substring(i, i + 4096));
+
+    // Close stream
+    writer.sendEnd();
+}
+
+    // Get display div from document
+    var display = document.getElementById("display");
+
+    // Instantiate client, using an HTTP tunnel for communications.
+    //http://guacamole.apache.org/doc/guacamole-common-js/Guacamole.WebSocketTunnel.html
+    var ws_scheme = window.location.protocol == "https:" ? "wss" : "ws";
+    var ws_path = ws_scheme + '://' + window.location.host + '/ws/';
+    var guac = new Guacamole.Client(
+       // new Guacamole.HTTPTunnel("tunnel")
+        new Guacamole.WebSocketTunnel('ws://127.0.0.1:8000/ws/kvm/')
+    );
+
+    // Add client to display div
+    display.appendChild(guac.getDisplay().getElement());
+
+	guac.onclipboard = function(stream, mimetype) {
+    //called when clipboard data changed
+    alert("clipboard changed");
+};
+
+    // Error handler
+    guac.onerror = function(error) {
+        <!--alert(error);-->
+        console.log(error);
+    };
+
+    // Connect
+    guac.connect();
+
+    // Disconnect on close
+    window.onunload = function() {
+        guac.disconnect();
+    }
+
+    // Mouse
+    var mouse = new Guacamole.Mouse(guac.getDisplay().getElement());
+
+    mouse.onmousedown =
+    mouse.onmouseup   =
+    mouse.onmousemove = function(mouseState) {
+        guac.sendMouseState(mouseState);
+    };
+
+    // Keyboard
+    var keyboard = new Guacamole.Keyboard(document);
+
+    keyboard.onkeydown = function (keysym) {
+        guac.sendKeyEvent(1, keysym);
+    };
+
+    keyboard.onkeyup = function (keysym) {
+        guac.sendKeyEvent(0, keysym);
+    };
+	paste('ni123')
+
+/* ]]> */ </script>
+</body>
+</html>
